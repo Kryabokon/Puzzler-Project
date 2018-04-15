@@ -2,11 +2,13 @@
 
 write up by Konstantin
 
+<b>Project completion date:</b>
+
 <b>Link to original post</b>
 
 https://discussions.udacity.com/t/puzzler-project-write-up-by-konstantin/446114
 
-<b>APK</b>
+<b>APK build:</b>
 
 https://drive.google.com/open?id=1xaVu45M93x2QhbU7_qDeUMbiy4Tj9elN
 
