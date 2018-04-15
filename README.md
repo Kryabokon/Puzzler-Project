@@ -21,6 +21,7 @@ The Puzzler Project was definitely huge learning experience with Unity program, 
 **Final Demo of "Tubeship Project"**
 
 https://youtu.be/kx0pmDku-e8
+
 >This video demonstrates the gameplay of the project. It has some custom animation and somewhat different design choices. The Player present with a simplistic Start menu when the player interact with it BU gaze and click the doors will open in dramatic way. Afterwards player will gently float to the mysterious panel which will present a simple "repeat after me" puzzle. If the puzzle is failed the player will hear rejecting sound. Upon successful completion of the puzzle. The panel will slide downwards and the door would open. All animation have been done in some what futuristic or unknown technology type of style. After all animations have finished the Restart UI will appear and the player will float to it.(and see that the puzzle wasn't a big deal :confused: .). From Here player can chose to restart or abandon the game. If player choose to restart all animations and properties would be set do default  or idle.
 -What you not supposed to know that Aliens wants you to play this game forever-.
 
@@ -97,18 +98,10 @@ I have changed a lot in the project after that user test starting from the light
 Next steps are definitely consisted of more detailed and ambient environment development with use of more advanced tool which I hope to learn thought that course and additional courses that I have taken. with focus on animation and UI elements. And more in deep investigations of User testing processes. Unfortunately I don't have any pictures of user testing. But my _user_ helped me a lot with this project she did all of my testing and provided me with the most detailed insights that helped me view this project from a lot of different perspective. Such us lightning intensity, Puzzle speed and movement pattern and overall atmosphere of the experience.Actually there is one of her pictures in a bonus area.
 
 
-[details="Bonus"]
->November 16 2017 wasn't only a day when this course have started. It was also the happiest day of my life :slight_smile:
 
-![November 16|308x470](upload://zTzegorwmWO6TzbZTnxx3PalIPW.jpg)
-
-[/details]
- 
-
-
-[details="Link for project and documentations."]
+Link for project and documentations.
 Contains dozens of build versions, more screenshots, videos and etc 
 https://drive.google.com/open?id=1bZk9SLHdWZfcszt6akm0VIDDEz9I_pup
-[/details]
+
 
 
