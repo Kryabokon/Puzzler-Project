@@ -101,3 +101,7 @@ Next steps are definitely consisted of more detailed and ambient environment dev
 Contains dozens of build versions, more screenshots, videos and etc 
 https://drive.google.com/open?id=1bZk9SLHdWZfcszt6akm0VIDDEz9I_pup
 [/details]
+
+<b>Link to original post</b>
+
+https://discussions.udacity.com/t/puzzler-project-write-up-by-konstantin/446114
