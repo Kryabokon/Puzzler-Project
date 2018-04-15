@@ -2,10 +2,14 @@
 
 write up by Konstantin
 
+<b>Link to original post</b>
+
+https://discussions.udacity.com/t/puzzler-project-write-up-by-konstantin/446114
+
  **Code Name….Tubeship**
  
 As I part of a course for Udacity I have developed "Tubeship Experiment" where the player was  placed in space like environment in front of a ship with strange and unfamiliar design. Tube shaped ship contain simple Simon says the type of experience.
-[spoiler]And whomever behind this puzzle really is not impressed that easily[/spoiler]
+And whomever behind this puzzle really is not impressed that easily
 
 **Comments**
 
@@ -14,33 +18,33 @@ The Puzzler Project was definitely huge learning experience with Unity program, 
 **Final Demo of "Tubeship Project"**
 
 https://youtu.be/kx0pmDku-e8
->This video demonstrates the gameplay of the project. It has some custom animation and somewhat different design choices. The Player present with a simplistic Start menu when the player interact with it BU gaze and click the doors will open in dramatic way. Afterwards player will gently float to the mysterious panel which will present a simple "repeat after me" puzzle. If the puzzle is failed the player will hear rejecting sound. Upon successful completion of the puzzle. The panel will slide downwards and the door would open. All animation have been done in some what futuristic or unknown technology type of style. After all animations have finished the Restart UI will appear and the player will float to it.[spoiler](and see that the puzzle wasn't a big deal :confused: .)[/spoiler] From Here player can chose to restart or abandon the game. If player choose to restart all animations and properties would be set do default  or idle.
-[spoiler]-What you not supposed to know that Aliens wants you to play this game forever-[/spoiler]
+>This video demonstrates the gameplay of the project. It has some custom animation and somewhat different design choices. The Player present with a simplistic Start menu when the player interact with it BU gaze and click the doors will open in dramatic way. Afterwards player will gently float to the mysterious panel which will present a simple "repeat after me" puzzle. If the puzzle is failed the player will hear rejecting sound. Upon successful completion of the puzzle. The panel will slide downwards and the door would open. All animation have been done in some what futuristic or unknown technology type of style. After all animations have finished the Restart UI will appear and the player will float to it.(and see that the puzzle wasn't a big deal :confused: .). From Here player can chose to restart or abandon the game. If player choose to restart all animations and properties would be set do default  or idle.
+-What you not supposed to know that Aliens wants you to play this game forever-.
 
 **Sketches and Earlier Design**
 
-![sketch 2|300x425](upload://zIYZrIEQihPBZGWiuxXWBD63ROP.jpg) ![IMG_20171113_011933|300x425](upload://wanUBgJw9kUOwqN0PxsWew39APC.jpg)
-[spoiler]Earlier sketch promised sandwich for player. Later the blueprint was simplified due to complications with design.[/spoiler]
+Earlier sketch promised sandwich for player. Later the blueprint was simplified due to complications with design.
 >I end up going with a space themed Puzzler as I felt like the movement in VR have not have been perfect and still perceives like floating. And in my opinion the best place to float it is in **Space**!
 
-![Capture3|690x473](upload://xiCFTFtUWczAz0KBSV7sscyDffE.jpg)
->After a thoughtful consideration there was decision to animation gates in a somewhat complex way. Even so I have used animation in previous course I was still unfamiliar with the process, so it took me a while to fully grasp the Unity tool capability.[spoiler]This Gate opening animation still appear in my nightmares sometimes...[/spoiler]
 
-![Capture5|690x327](upload://wlCAz6T5DgfBB8w2QG79W1NwRnf.jpg)
+>After a thoughtful consideration there was decision to animation gates in a somewhat complex way. Even so I have used animation in previous course I was still unfamiliar with the process, so it took me a while to fully grasp the Unity tool capability.This Gate opening animation still appear in my nightmares sometimes...
+
+
 >Slow polish of a simple design lead to a more complex structure.Even when I have finished "cool" gate animation the space have seemed a bit empty and simple. I have used Dungeon prefabs quite a bit. For example the ships hull was made out of one element in dungeon ceiling. And the floor illumination nothing else than flattened barrels.
 
-![Screenshot_20171113-004724|690x388](upload://9W12bNVyfeyTr8oHBN71knWlfN7.jpg)
+
 >User testing have shown that spaceship still haven't been identified and place haven't been recognizable enough.I decided to take a shot with Unity Store asset and get me some props. 
 
-![Capture6|345x193](upload://eYUdurRWcw0hpWQlTo7uFTcA0Hc.PNG) ![Capture2|345x195](upload://x7g5Hmwd1o1I685kTp6LIptdXCh.jpg)
+
 >User testing has proved as well that lightning was too much and it somewhat stressed frame rate so it was toned down to reasonable standards.
 
-![Capture4|422x500](upload://ztn8zAv5THcXQ7UmmGmlGtmJ53p.PNG)
+
 >After initial framework was done there was a need for a more complicated script, So I have made some improvements to a provided code. Animations, sounds and miscellaneous finally starting to come along nicely.
 
 **Persona**
-![Persona|619x500](upload://fqVap4AvFV7QjP7MVM6NfdoukbZ.jpg)
-[spoiler]For Persona I choose photo of me when I was definitely **not** going through [spoiler]hippy[/spoiler] phase…[/spoiler]
+
+For Persona I choose photo of me when I was definitely **not** going through.. hippy phase…
+
 Initially App was targeted for teenagers and young adult seeking new experiences. In this case it is simple re-playable experience which is polished and due to a VR technology quite innovative in its nature.
 
 **User testing** 
@@ -55,7 +59,9 @@ My wife have helped me a lot with User testing. When I have first started I used
 >**How is interface makes you feel?** 
 >_I like it is simple and intuitive_  
 >**What Kind of mood do you feel in this place** 
->_It is mysterious and spooky_ [spoiler](it wasn't what I was going for in the first build but I mysterious lightning suited my project better then magical)[/spoiler] 
+>_It is mysterious and spooky_ 
+
+(it wasn't what I was going for in the first build but I mysterious lightning suited my project better then magical)
  
 After I resolved scaling and building project further more interesting finds appear 
  
@@ -102,6 +108,4 @@ Contains dozens of build versions, more screenshots, videos and etc
 https://drive.google.com/open?id=1bZk9SLHdWZfcszt6akm0VIDDEz9I_pup
 [/details]
 
-<b>Link to original post</b>
 
-https://discussions.udacity.com/t/puzzler-project-write-up-by-konstantin/446114
