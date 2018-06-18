@@ -6,27 +6,27 @@
 
 **Code Name….Tubeship**
  
-As a part of a course for Udacity I have developed "Tubeship Experiment" where the player was  placed in space environment in front of a ship with strange and unfamiliar design. Tube shaped ship contain simple "Simon Says" type of experience.
+As a part of Udacity course I have developed "Tubeship Experiment" where the player was placed in space environment in front of a spaceship with strange and unfamiliar design. Tube shaped ship contain simple "Simon Says" type of experience.
 
 **Comments**
 
-The Puzzler Project was definitely huge learning experience with Unity program, with design process from scratch and documenting every step along the way. Thought the course I was eager to learn new information so I can use it in creative way. More konowledge I gathered more possibilities were uncovered. But real learning came from, mistakes and misfortunes. When something different have happened, something just broke or stopped working.  But every time when something started working erratic I would ether gather a new instrument for my tool-belt or polish skills or routine troubleshooting techniques that have I already knew.
+The Puzzler Project with design process from scratch and documenting every step along the way was definitely a huge learning experience with Unity program. Through the course I was eager to learn new information so I can use it in creative way. More konowledge I gathered gave more possibilities to uncover. But real learning came from mistakes and misfortunes: when something different have happened, something just broke down or stopped working.  But every time when something started working erratic I would either gather a new instrument for my tool-belt or polish skills or routine troubleshooting techniques that have I already knew.
 
 **Final Demo of "Tubeship Project"**
 
 https://youtu.be/kx0pmDku-e8
 
->This video demonstrates the gameplay of the project. It has some custom animation and somewhat different design choices. The player present with a simplistic start menu when the player interact with it by gaze input and click. After that the door will open in dramatic way. Afterwards player will gently float to the mysterious panel which will present a simple "repeat after me" puzzle. If the puzzle is failed the player will hear rejecting sound. Upon successful completion of the puzzle the panel will slide downwards and the door would open. All animation have been done in some what futuristic or unknown technology type of style. After all animations have finished the Restart UI will appear and the player will float to it.(and see that the puzzle wasn't a big deal :confused: .). From Here player can chose to restart or abandon the game. If player choose to restart all animations and properties would be set do default  or idle.
+>This video demonstrates the gameplay of the project. It has some custom animation and somewhat different design choices. The player is presented with a simplistic start menu where the player interacts with it by gaze input and click. After that the door opens in dramatic way. Afterwards the player gently floats to the mysterious panel which presents a simple "repeat after me" puzzle. If the puzzle is failed, the player will hear rejecting sound. Upon successful completion of the puzzle the panel will slide downwards and the door would open. All animation have been done in futuristic or alien type of style. After all animations are finished, the Restart UI appears and the player floats to it (and sees that the puzzle wasn't a big deal :confused: .). From here the player can chose to restart or abandon the game. If the player choose to restart, all animations and properties would be set do default  or idle.
 
 -What you not supposed to know that Aliens wants you to play this game forever-.
 
 **Sketches and Earlier Design**
 
-Earlier sketch promised sandwich for player. Later the blueprint was simplified due to complications with design.
+Earlier sketch promised sandwich for the player. Later the blueprint was simplified due to complications with design.
 >I end up going with a space themed Puzzler as I felt like the movement in VR have not have been perfect and still perceives like floating. And in my opinion the best place to float it is in **Space**!
 
 
->After a thoughtful consideration there was decision to animation gates in a somewhat complex way. Even so I have used animation in previous course I was still unfamiliar with the process, so it took me a while to fully grasp the Unity tool capability. This Gate opening animation still appear in my nightmares sometimes...
+>After a thoughtful consideration there was decision to animation gates in a complex way. Even so I have used animation in previous course I was still unfamiliar with the process, so it took me a while to fully grasp the Unity tool capability. This Gate opening animation still appear in my nightmares sometimes...
 
 
 >Slow polish of a simple design lead to a more complex structure.Even when I have finished "cool" gate animation the space have seemed a bit empty and simple. I have used Dungeon prefabs quite a bit. For example the ships hull was made out of one element in dungeon ceiling. And the floor illumination nothing else than flattened barrels.
